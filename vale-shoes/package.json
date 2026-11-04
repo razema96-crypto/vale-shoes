@@ -1,0 +1,15 @@
+{
+  "name": "vale-shoes",
+  "private": true,
+  "version": "1.0.0",
+  "description": "VALE Shoes — Arabic RTL luxury e-commerce store (client + server)",
+  "scripts": {
+    "install:all": "npm install --prefix server && npm install --prefix client",
+    "dev": "node scripts/dev.mjs",
+    "build": "npm run build --prefix client && npm run build --prefix server",
+    "start": "npm start --prefix server",
+    "create-admin": "npm run create-admin --prefix server",
+    "render-demo-images": "python3 scripts/render_demo_images.py"
+  },
+  "engines": { "node": ">=22.13" }
+}

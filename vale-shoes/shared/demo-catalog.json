@@ -1,0 +1,146 @@
+{
+  "_note": "DEMO PRODUCTS ONLY. Placeholder catalog used to preview the store. Each product is stored with is_demo=1 and is labelled as a demo in the storefront and the admin dashboard. Replace or delete them from the admin dashboard before going live. Images are rendered from the site's own procedural 3D shoe model (scripts/render_demo_images.py), not photos of real VALE products.",
+  "products": [
+    {
+      "slug": "stiletto-vale-classic",
+      "name": "ستيليتو ڤالي الكلاسيكي",
+      "category": "كعب عالٍ",
+      "price": 690, "compareAtPrice": null,
+      "sizes": [36, 37, 38, 39, 40, 41],
+      "badges": ["bestseller"], "stock": 14, "popularity": 96,
+      "model": "pump", "finish": "polished",
+      "description": "حذاء ستيليتو بمقدمة مدببة وكعب رفيع مكسو بالجلد نفسه. خط جانبي منخفض يطيل مظهر القدم، ويناسب السهرات والمناسبات الرسمية.",
+      "colors": [
+        { "name": "أسود", "hex": "#111010", "sole": "#0b0a0a" },
+        { "name": "بيج", "hex": "#c9a688", "sole": "#3a2a1e" }
+      ]
+    },
+    {
+      "slug": "stiletto-al-sahra",
+      "name": "ستيليتو السهرة",
+      "category": "كعب عالٍ",
+      "price": 720, "compareAtPrice": null,
+      "sizes": [36, 37, 38, 39, 40],
+      "badges": ["new"], "stock": 8, "popularity": 74,
+      "model": "pump", "finish": "polished",
+      "description": "ستيليتو بلون أحمر عميق بلمعة ناعمة، للحظات التي تريدين فيها أن يكون الحذاء هو نقطة البداية للإطلالة كلها.",
+      "colors": [
+        { "name": "أحمر", "hex": "#8e1a1f", "sole": "#1d0b0c" },
+        { "name": "عنابي", "hex": "#4f1419", "sole": "#160809" }
+      ]
+    },
+    {
+      "slug": "maryjane-al-warda",
+      "name": "ماري جين الوردة",
+      "category": "كعب متوسط",
+      "price": 640, "compareAtPrice": 720,
+      "sizes": [36, 37, 38, 39, 40, 41],
+      "badges": [], "stock": 6, "popularity": 61,
+      "model": "maryjane", "finish": "polished",
+      "description": "حذاء ماري جين بحزام رفيع على مشط القدم وإبزيم ذهبي صغير، وكعب متوسط عريض يمنح ثباتاً طوال اليوم.",
+      "colors": [
+        { "name": "عنابي", "hex": "#5a1a22", "sole": "#1a0a0c" },
+        { "name": "أسود", "hex": "#131212", "sole": "#0a0a0a" }
+      ]
+    },
+    {
+      "slug": "ankle-boot-al-shita",
+      "name": "بوت الكاحل الشتوي",
+      "category": "بوت",
+      "price": 950, "compareAtPrice": null,
+      "sizes": [36, 37, 38, 39, 40, 41],
+      "badges": ["bestseller"], "stock": 11, "popularity": 92,
+      "model": "ankleboot", "finish": "polished",
+      "description": "بوت كاحل بكعب متوسط مكسو بالجلد وسحّاب جانبي بلون ذهبي. مقدمة لوزية وخطوط نظيفة لأيام الخريف والشتاء.",
+      "toe": "almond",
+      "colors": [
+        { "name": "أحمر", "hex": "#9b1c22", "sole": "#1a0b0b" },
+        { "name": "أسود", "hex": "#131212", "sole": "#0a0a0a" },
+        { "name": "كونياك", "hex": "#7a411d", "sole": "#24150c" }
+      ]
+    },
+    {
+      "slug": "chelsea-al-hurriya",
+      "name": "بوت تشيلسي الحرية",
+      "category": "بوت",
+      "price": 880, "compareAtPrice": null,
+      "sizes": [36, 37, 38, 39, 40, 41],
+      "badges": ["new"], "stock": 9, "popularity": 70,
+      "model": "chelsea", "finish": "suede",
+      "description": "بوت تشيلسي مسطح من الشمواه بجانبين مطاطيين وحلقة سحب خلفية، يُرتدى ويُخلع بسهولة ويرافقك في المشاوير الطويلة.",
+      "colors": [
+        { "name": "بني تبغي", "hex": "#6a4a33", "sole": "#1c140e" },
+        { "name": "أسود", "hex": "#1b1a1a", "sole": "#0c0c0c" }
+      ]
+    },
+    {
+      "slug": "ballerina-al-nasma",
+      "name": "باليرينا النسمة",
+      "category": "فلات",
+      "price": 420, "compareAtPrice": null,
+      "sizes": [36, 37, 38, 39, 40, 41],
+      "badges": ["new"], "stock": 18, "popularity": 66,
+      "model": "ballerina", "finish": "polished",
+      "description": "باليرينا خفيفة بمقدمة دائرية وفيونكة صغيرة. خيار يومي مريح يناسب الفساتين والبناطيل على حد سواء.",
+      "colors": [
+        { "name": "عاجي", "hex": "#e4dccb", "sole": "#3a2a1e" },
+        { "name": "أسود", "hex": "#141313", "sole": "#0a0a0a" },
+        { "name": "نيود", "hex": "#c9a183", "sole": "#3a2a1e" }
+      ]
+    },
+    {
+      "slug": "loafer-al-anaqa",
+      "name": "لوفر الأناقة",
+      "category": "فلات",
+      "price": 560, "compareAtPrice": null,
+      "sizes": [36, 37, 38, 39, 40, 41],
+      "badges": ["bestseller"], "stock": 3, "popularity": 84,
+      "model": "loafer", "finish": "polished", "toe": "almond",
+      "description": "لوفر نسائي بمقدمة لوزية وشريط سرج وخياطة أمامية بارزة. يجمع بين الطابع الرسمي وراحة الحذاء المسطح.",
+      "colors": [
+        { "name": "أسود", "hex": "#121111", "sole": "#0b0a0a" },
+        { "name": "عنابي", "hex": "#4a1519", "sole": "#1d0b0c" }
+      ]
+    },
+    {
+      "slug": "suede-loafer-al-rabie",
+      "name": "لوفر الربيع الشمواه",
+      "category": "فلات",
+      "price": 520, "compareAtPrice": null,
+      "sizes": [36, 37, 38, 39, 40],
+      "badges": [], "stock": 12, "popularity": 52,
+      "model": "tassel", "finish": "suede", "toe": "almond",
+      "description": "لوفر من الشمواه الناعم بشراشيب صغيرة على الواجهة، لأيام الربيع والإجازات.",
+      "colors": [
+        { "name": "رملي", "hex": "#b39572", "sole": "#5b4330" },
+        { "name": "زيتي", "hex": "#4c4f34", "sole": "#1d1d14" }
+      ]
+    },
+    {
+      "slug": "stiletto-almond-nude",
+      "name": "ستيليتو النيود اللوزي",
+      "category": "كعب عالٍ",
+      "price": 700, "compareAtPrice": null,
+      "sizes": [36, 37, 38, 39, 40],
+      "badges": [], "stock": 5, "popularity": 58,
+      "model": "pump", "finish": "polished", "toe": "almond",
+      "description": "ستيليتو بمقدمة لوزية أنعم ولون نيود يمتزج مع البشرة ليطيل خط الساق. قطعة أساسية تناسب أغلب الألوان.",
+      "colors": [
+        { "name": "نيود", "hex": "#d2ae8c", "sole": "#4a3527" }
+      ]
+    },
+    {
+      "slug": "ankle-boot-al-kharif",
+      "name": "بوت الخريف الشمواه",
+      "category": "بوت",
+      "price": 980, "compareAtPrice": null,
+      "sizes": [37, 38, 39, 40],
+      "badges": [], "stock": 0, "popularity": 45,
+      "model": "ankleboot", "finish": "suede", "toe": "almond",
+      "description": "نسخة الشمواه من بوت الكاحل بكعب متوسط، بلون تبغي دافئ يتناغم مع ألوان الخريف.",
+      "colors": [
+        { "name": "تبغي", "hex": "#6a4a33", "sole": "#1c140e" }
+      ]
+    }
+  ]
+}
